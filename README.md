@@ -1,7 +1,7 @@
 # Datasets de Transcripción de Telediarios
 
 <a href="https://datamarket.es">
-  <img src="https://datamarket.es/static/core/img/banners/transcripcion-de-telediarios-banner.png">
+  <img src="https://datamarket.es/media/banners/transcripcion-de-telediarios-banner.png">
 </a>
 
 ## Descripción
